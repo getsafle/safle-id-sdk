@@ -19,7 +19,7 @@ The **SafleID SDK** is a JavaScript library designed to interact with the SafleI
 Install the required dependencies:
 
 ```bash
-npm install web3 ethereumjs-tx axios
+npm install @getsafle/safle-gaming-sdk
 ```
 
 Add this SDK to your project:
