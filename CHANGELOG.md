@@ -1,4 +1,4 @@
-#### 1.0.0 (2020-06-29)
+#### 1.0.1 (2020-06-29)
 
 - Validate SafleIDs against predefined rules.
 - Check the registration status of SafleIDs.
